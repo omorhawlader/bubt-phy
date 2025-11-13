@@ -23,7 +23,9 @@
 - On the screen, we see **bright and dark lines** one after another.
 
 ![Labeled diagram of double slit experiment](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/1322/2015/12/03212248/Figure_28_03_03a.jpg)
-*Figure 1: Light from two slits makes bright and dark lines on the screen.*
+![Labeled diagram of double slit experiment 2](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2017/contextuality/electrons.png)
+![Labeled diagram of double slit experiment 2](https://miro.medium.com/v2/resize:fit:740/0*rEhLlm-AaGqGWlrB)
+#### *Figure 1: Light from two slits makes bright and dark lines on the screen.*
 
 ---
 
