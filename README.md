@@ -1,8 +1,9 @@
-# 🌈 Light and Its Behavior  
-### *Simple Physics Presentation Notes*  
-**Made by:** Mohammad Omar  
-**Subject:** Physics (Light – Wave Part)  
-**For:** Class 8–10 Level Students  
+# *Physics Presentation*  
+### **Made by:** Mohammad Omar  
+### **Subject:** Physics
+### **Intake:** 49
+### **Section:** 1
+
 
 ---
 
@@ -21,7 +22,7 @@
 - The light from the two slits falls on a **white screen** a little far away.  
 - On the screen, we see **bright and dark lines** one after another.
 
-![Labeled diagram of double slit experiment](image-placeholder-youngs-double-slit)
+![Labeled diagram of double slit experiment](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/1322/2015/12/03212248/Figure_28_03_03a.jpg)
 *Figure 1: Light from two slits makes bright and dark lines on the screen.*
 
 ---
@@ -34,15 +35,18 @@
 ---
 
 ### 🔹 Formula for Bright Line Distance
-Let,  
-- \( \lambda \) = wavelength of light  
-- \( D \) = distance from slits to screen  
-- \( d \) = distance between two slits  
 
-Then the **distance between two bright lines (fringe width)** is:  
-\[
-\boxed{β = \frac{\lambda D}{d}}
-\]
+Let,  
+- `λ` = wavelength of light  
+- `D` = distance from slits to screen  
+- `d` = distance between two slits 
+
+Then the **distance between two bright lines (fringe width)** is:
+
+$$
+\beta = \frac{\lambda\,D}{d}
+$$
+
 
 This means:  
 - If we use **longer wavelength**, bright lines get **farther apart**.  
@@ -63,8 +67,8 @@ This means:
 - Light reflects from both the top and bottom of the air layer.  
 - This makes **round bright and dark rings** — called **Newton’s Rings**.
 
-![Circular pattern of Newton’s rings](image-placeholder-newtons-rings)
-*Figure 2: Bright and dark circular rings formed by thin air layer.*
+![Circular pattern of Newton’s rings](https://www.shutterstock.com/image-vector/newton-rings-interference-pattern-260nw-418505596.jpg)
+#### *Figure 2: Bright and dark circular rings formed by thin air layer.*
 
 ---
 
@@ -78,15 +82,17 @@ This means:
 ### 🔹 To Find Wavelength of Light
 1. Measure the **diameter of any two rings** (say 5th and 10th).  
 2. Use the formula:  
-   \[
-   \lambda = \frac{D_{m+p}^2 - D_m^2}{4Rp}
-   \]
-   - \( R \) = radius of lens  
-   - \( p \) = difference in ring numbers  
+
+$$
+\lambda = \frac{D_{m+p}^2 - D_m^2}{4 R p}
+$$
+
+- R = radius of the lens  
+- p = difference in ring numbers
 3. Put the values and find the **wavelength**.
 
-![Setup of Newton’s rings experiment](image-placeholder-newtons-ring-setup)
-*Figure 3: Setup used to see and measure Newton’s Rings.*
+![Setup of Newton’s rings experiment](https://img.brainkart.com/imagebk1/5iaB9iO.jpg)
+#### *Figure 3: Setup used to see and measure Newton’s Rings.*
 
 ---
 
@@ -103,8 +109,8 @@ This means:
 - When light passes through a **small hole or edge**, it **bends** a little and **spreads out**.  
 - This bending of light waves is called **diffraction**.
 
-![Light waves bending through a slit](image-placeholder-diffraction)
-*Figure 4: Light waves bending and spreading after passing through a small slit.*
+![Light waves bending through a slit](https://cms-media.bartleby.com/wp-content/uploads/sites/2/2021/08/03052427/4-1-1024x713.jpg)
+#### *Figure 4: Light waves bending and spreading after passing through a small slit.*
 
 ---
 
@@ -131,8 +137,8 @@ This means:
 - When they vibrate in **only one direction**, it is called **polarized light**.  
 - Polarization proves that **light is a transverse wave**.
 
-![Unpolarized and polarized light through polarizer](image-placeholder-polarization)
-*Figure 5: Unpolarized light turns into polarized light after passing through polarizer.*
+![Unpolarized and polarized light through polarizer](https://cdn1.byjus.com/wp-content/uploads/2023/02/Polarization-of-Light-Updated.png)
+#### *Figure 5: Unpolarized light turns into polarized light after passing through polarizer.*
 
 ---
 
@@ -141,14 +147,17 @@ This means:
   the **reflected light becomes fully polarized**.  
 
 The rule is:  
-\[
+
+$$
 \tan \theta_B = \mu
-\]
-- Here, \( \mu \) = refractive index of the glass.  
+$$
+
+- Here, μ = refractive index of the glass
+
 - At this angle, the **reflected** and **refracted** rays are **at 90°** to each other.
 
-![Brewster’s angle showing polarized reflection](image-placeholder-brewsters-law)
-*Figure 6: Light becomes polarized when reflected at Brewster’s angle.*
+![Brewster’s angle showing polarized reflection](https://cmds-test.vedantu.com/prod/question-sets/c5440785-0356-4a8c-83d9-1e93a1ab219b2534419664114973128.png)
+#### *Figure 6: Light becomes polarized when reflected at Brewster’s angle.*
 
 ---
 
@@ -167,8 +176,8 @@ The rule is:
 - The analyzer is turned until the brightness matches again.  
 - The amount of turning shows the **optical rotation**.
 
-![Diagram of polarimeter showing parts](image-placeholder-polarimeter-diagram)
-*Figure 7: Polarimeter parts and how it measures rotation of polarized light.*
+![Diagram of polarimeter showing parts](https://turbo.vernier.com/wp-content/uploads/2019/12/lab.CHEM-O-06-understanding_polarimetry.001-768x432.png)
+#### *Figure 7: Polarimeter parts and how it measures rotation of polarized light.*
 
 ---
 
@@ -183,12 +192,4 @@ The rule is:
 
 ---
 
-## 📚 References
-- *NCERT Physics (Class 12)*  
-- *Basic Physics* by S.L. Arora  
-- *Optics Notes for Students*  
-
----
-
 > ✨ **End of Presentation Notes**  
-> *(Easy to read, simple English, ready to make slides or PDF.)*
